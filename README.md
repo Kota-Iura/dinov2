@@ -2,7 +2,7 @@
 
 # DINOv2: Learning Robust Visual Features without Supervision
 
-## Copyed from https://github.com/facebookresearch/dinov2  
+## Copied from https://github.com/facebookresearch/dinov2  
 
 **[Meta AI Research, FAIR](https://ai.facebook.com/research/)**
 
